@@ -1,5 +1,0 @@
-{
-    "port": "COM6",
-    "configuration": "PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
-    "board": "espressif:esp32:pico32"
-}
