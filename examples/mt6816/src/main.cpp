@@ -9,6 +9,7 @@
 
 SPIClass MT6816;
 
+// If there is a problem with SPI communication, disconnect GPIO0 and EN pin to test.
 int MT6816_read(void)
 {
     uint16_t temp[2];
